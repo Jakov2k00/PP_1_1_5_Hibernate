@@ -1,6 +1,6 @@
-package jm.task.core.jdbc.service;
+package jm.task.core.hibernate.service;
 
-import jm.task.core.jdbc.model.User;
+import jm.task.core.hibernate.model.User;
 
 import java.util.List;
 
